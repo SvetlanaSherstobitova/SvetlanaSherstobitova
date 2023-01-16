@@ -12,6 +12,16 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=5792f1)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=af7aee)
 
-## Testing Documentation
+### Testing Documentation
+- [Checklist, Test-Cases and SQL Query](https://clck.ru/33HNtn)
 
-## Follow Me
+- [Test-plan](https://clck.ru/33DxrS)
+
+- [Web service Todolist User Manual](https://clck.ru/33Dxqn)
+
+### Stepik sertificates
+- [Постановка задачи на разработку ПО](https://stepik.org/cert/1475099)
+- [Вселенная тестирования, или Как стать тестировщиком](https://stepik.org/cert/1864031)
+- [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1905517)
+
+### Follow Me
