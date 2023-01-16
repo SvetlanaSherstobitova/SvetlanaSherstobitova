@@ -14,9 +14,7 @@
 
 ### Testing Documentation
 - [Checklist, Test-Cases and SQL Query](https://clck.ru/33HNtn)
-
 - [Test-plan](https://clck.ru/33DxrS)
-
 - [Web service Todolist User Manual](https://clck.ru/33Dxqn)
 
 ### Stepik sertificates
