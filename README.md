@@ -4,7 +4,7 @@
 
 ## My CV
 
-[![CV](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh.ru&logoColor=e1011c)](https://izhevsk.hh.ru/resume/51d9e89bff07e176e40039ed1f7033756c6a38)
+![Link to my CV on hh.ru](https://izhevsk.hh.ru/resume/51d9e89bff07e176e40039ed1f7033756c6a38)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
@@ -33,3 +33,5 @@
 [![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=5FFC7B)](https://wa.me/79161953201)
 
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=3357C0)](https://svsherstobit@gmail.соm)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvetlanaSherstobitova)](https://github.com/anuraghazra/github-readme-stats)
