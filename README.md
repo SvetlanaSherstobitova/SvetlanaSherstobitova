@@ -2,6 +2,10 @@
 
 ## I'm a beginner QA Engineer
 
+## My CV
+
+[![CV](https://img.shields.io/badge/-hh.ru-090909?style=for-the-badge&logo=hh.ru&logoColor=e1011c)](https://izhevsk.hh.ru/resume/51d9e89bff07e176e40039ed1f7033756c6a38)
+
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-090909?style=for-the-badge&logo=MicrosoftSQLServer)
