@@ -4,12 +4,12 @@
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=MSSQL)
+![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-090909?style=for-the-badge&logo=MicrosoftSQLServer)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![GitExtensions](https://img.shields.io/badge/-GitExtensions-090909?style=for-the-badge&logo=GitExtensions&logoColor=4fb850)
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools)
-![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=5792f1)
+![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=0078d7)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=af7aee)
 
 ### Testing Documentation
@@ -23,3 +23,9 @@
 - [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1905517)
 
 ### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=0088cc)](https://t.me/SvetlanaSherstobit)
+
+[![whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp&logoColor=5FFC7B)](https://wa.me/79161953201)
+
+[![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=3357C0)](https://svsherstobit@gmail.соm)
