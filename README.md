@@ -4,7 +4,7 @@
 
 ## My CV
 
-![Link to my CV on hh.ru](https://izhevsk.hh.ru/resume/51d9e89bff07e176e40039ed1f7033756c6a38)
+[Link to my CV on hh.ru](https://izhevsk.hh.ru/resume/51d9e89bff07e176e40039ed1f7033756c6a38)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
